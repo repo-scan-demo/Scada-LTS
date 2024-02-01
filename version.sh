@@ -25,3 +25,6 @@ sed -i "/slts.version.number=/c\slts.version.number=$milestone" $versionfile
 sed -i "/slts.version.build=/c\slts.version.build=$build" $versionfile
 sed -i "/slts.version.commit=/c\slts.version.commit=$commit" $versionfile
 sed -i "/slts.version.branch=/c\slts.version.branch=$branch" $versionfile
+
+
+tts
